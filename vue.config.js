@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/router-practice'
+    publicPath: '/router-practice/'
 }
